@@ -1,0 +1,12 @@
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+
+body {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  font-size: 15px;
+  color: $base-text-color;
+  font-family: $base-font-family;
+}

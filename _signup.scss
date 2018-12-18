@@ -1,0 +1,23 @@
+.form-wrapper {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 15px;
+  border: 1px solid #DEDEDE;
+  border-radius: $base-border-radius;
+}
+
+.fieldset {
+  margin-bottom: 1em;
+}
+
+@media (min-width: 600px) {
+  .fieldset {
+    display: flex;
+    align-items: center;
+  }
+
+  .submit-button-wrapper {
+    text-align: right;
+  }
+}
+

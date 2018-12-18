@@ -1,0 +1,12 @@
+$base-text-color: #2B2D2D;
+$base-font-family: "遊ゴシック", "YuGothic", "Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3","メイリオ",Meiryo,"ＭＳ Ｐゴシック";
+$success-color: #D9728E;
+$success-hover-color: #DF8BA2;
+$base-border: 1px solid #DEDEDE;
+$base-border-radius: 4px;
+
+@import 'base';
+@import 'button';
+@import 'form';
+@import 'grid';
+@import 'signup';

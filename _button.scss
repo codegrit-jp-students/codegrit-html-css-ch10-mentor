@@ -1,0 +1,17 @@
+.btn {
+  padding: 10px 15px;
+  border-radius: 4px;
+  font-size: 1em;
+}
+
+.btn-submit {
+  background-color: $success-color;
+  border-color: $success-color;
+  color: #fff;
+}
+
+.btn-submit:hover {
+  background-color: $success-hover-color;
+  border-color: $success-hover-color;
+  color: #fff;
+}
